@@ -1,4 +1,4 @@
-# PokeAPI
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">Poke API</h1>
 ## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
+
+<p align="center">Neste projeto criei uma Pokédex utilizando apenas HTML, CSS e JavaScript</p>
